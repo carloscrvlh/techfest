@@ -1,0 +1,67 @@
+header .container h2 {
+    font-size: 2.5em;
+    font-weight:400;
+    color: #DAD7CD;
+    text-align: center;
+}
+header {
+    padding: 20px 0;
+    background-color: #0033cc;
+}
+#destaque {
+    text-align: center;
+    padding: 39.8vh 0;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,1)), url("img/programacao.jpg"); 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #DAD7CD;
+    font-size: 3em !important;
+}
+#destaque a {
+    text-decoration: none;
+    color: #fff;
+    padding: 15px;
+    font-weight:400;
+}
+.imagem img {
+    width: 45%;
+    height: auto;
+    border-radius: 100%;
+}
+#palestrantes {
+    padding: 15px;
+    text-align: center;
+}
+#palestrantes .col{
+    padding: 15px;
+    height: 50vh;
+}
+#palestrantes h3 {
+    text-align: center;
+    margin-top: px;
+}
+#palestrantes h4 {
+    margin-top: 15px;
+}
+#palestrantes{
+    background-color: #E9ECEF;
+}
+#eventos {
+    background-color: #0033cc;
+    color: #fff;
+    padding: 50px 0px;
+}
+#eventos h3 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+#eventos .atual {
+    background-color: #fff;
+    color:#0033cc;
+    padding: 40px 20px;
+    border-radius: 10px;
+}
+#eventos .col {
+    padding: 40px 20px;
+}
