@@ -28,6 +28,9 @@ header {
     width: 45%;
     height: auto;
     border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+    padding: 20px 0;
 }
 #palestrantes {
     padding: 15px;
